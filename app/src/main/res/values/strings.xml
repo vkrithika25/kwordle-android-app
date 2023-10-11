@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kwordle</string>
+    <string name="clue_mode">Done </string>
+    <string name="input_mode">Input Mode</string>
+</resources>
